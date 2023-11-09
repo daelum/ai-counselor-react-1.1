@@ -3,4 +3,5 @@
 
 1. Install packages with `npm i`
 2. Start the server with `npm run dev` or `npm start`
-3. Proceed to AI COUNSELOR API repo to start server
+3. login with user: test@test.com   pw: hello   or signup to create new user
+4. Proceed to AI COUNSELOR API repo to start server
